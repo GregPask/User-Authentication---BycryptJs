@@ -24,9 +24,8 @@ $ npm install
 
 
 ### Run server locally
-```sh
- > node serve.js
+```
+ > node server.js
  > nodemon
-#  http://localhost:5000
 ```
 
